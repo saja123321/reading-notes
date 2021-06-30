@@ -3,17 +3,11 @@
 [*visit my **git** profile*](https://github.com/saja123321)
 
 # Table Of Contant
-<<<<<<< HEAD
 
-| Reads  | The Link  
-|---|---|
-| Read01| [Read01](https://saja123321.github.io/reading-notes/Read01)  |
-| Read02|[Read02](https://saja123321.github.io/reading-notes/Read02)   |
-|   Growth| [Growth](https://saja123321.github.io/reading-notes/growthMindset)  |
-=======
-Reads | The Link
-------|---------
-Read01| [Read01](https://saja123321.github.io/reading-notes/Read01)
-Read02|[Read02](https://saja123321.github.io/reading-notes/read02)
-Growth| [Growth](https://saja123321.github.io/reading-notes/growthMindset)
->>>>>>> 997eba760a75792b9cfcadce3ecb27c91c1d8531
+|       Reads    |   The Link                                                           |
+|----------------|----------------------------------------------------------------------|
+|       Read01   |[Read01](https://saja123321.github.io/reading-notes/Read01)           |
+|       Read02   |[Read01](https://saja123321.github.io/reading-notes/read02)           |
+|       Growth   |[Read01](https://saja123321.github.io/reading-notes/growthMindset)    |
+|       Read03   |[Read01](https://saja123321.github.io/reading-notes/Read03)           |
+|       Read04   |[Read01](https://saja123321.github.io/reading-notes/Read04)           |
