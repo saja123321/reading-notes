@@ -9,9 +9,9 @@
 |       Reads    |   The Link                                                           |
 |----------------|----------------------------------------------------------------------|
 |       Read01   |[Read01](https://saja123321.github.io/reading-notes/Read01)           |
-|       Read02   |[Read01](https://saja123321.github.io/reading-notes/read02)           |
-|       Growth   |[Read01](https://saja123321.github.io/reading-notes/growthMindset)    |
-|       Read03   |[Read01](https://saja123321.github.io/reading-notes/Read03)           |
-|       Read04   |[Read01](https://saja123321.github.io/reading-notes/Read04)           |
+|       Read02   |[Read02](https://saja123321.github.io/reading-notes/read02)           |
+|       Growth   |[Growth](https://saja123321.github.io/reading-notes/growthMindset)    |
+|       Read03   |[Read03](https://saja123321.github.io/reading-notes/read03)           |
+|       Read04   |[Read04](https://saja123321.github.io/reading-notes/read04)           |
 
 
