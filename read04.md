@@ -54,6 +54,5 @@ It separates HTML and code
 It makes HTML and JavaScript easier to read and maintain
 Cached JavaScript files can speed up page loads
 
-
-
- *to learn more check this [link](https://www.w3schools.com/js/js_variables.asp)* 
+ 
+ *to learn more check this [link](https://www.w3schools.com/js/js_variables.asp) * 
