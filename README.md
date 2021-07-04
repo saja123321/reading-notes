@@ -15,5 +15,6 @@
 |       Read04   |[Read04](https://saja123321.github.io/reading-notes/read04)           |
 |       Read05   |[Read05](https://saja123321.github.io/reading-notes/read05)           |
 |       Read06   |[Read06](https://saja123321.github.io/reading-notes/read06)           |
+|       Read07   |[Read07](https://saja123321.github.io/reading-notes/read07)           |
 
 
