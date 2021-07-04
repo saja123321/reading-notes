@@ -93,8 +93,4 @@ while (condition) {
 ```
 
 
-<<<<<<< HEAD
 [Previous Page](https://saja123321.github.io/reading-notes/read04)
-=======
-[Previous Page]([Read04](https://saja123321.github.io/reading-notes/read04) )
->>>>>>> 4c5978c1f2939a5e5668bc80eea761e0b26e0ab6
