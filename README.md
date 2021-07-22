@@ -2,9 +2,10 @@
 # Code 201 Reading Notes
 
 ##### Hello everyone, I am Saja Malkawi, 25 years old. I Have A Master Degree in Computer Science.I have a passion for programming
-[*visit my **git** profile*](github.com/saja123321)
 
-[*visit my **Linkedin** profile*](linkedin.com/in/sajamalkawi1995/)
+[*visit my **git** profile*](https://github.com/saja123321)
+
+[*visit my **Linkedin** profile*](https://www.linkedin.com/in/sajamalkawi1995/)
 
 
 ### Table Of Contant of **102** reading notes
@@ -20,7 +21,7 @@
 |       Read05   |[Read05](https://saja123321.github.io/reading-notes/read05)           |
 |       Read06   |[Read06](https://saja123321.github.io/reading-notes/read06)           |
 |       Read07   |[Read07](https://saja123321.github.io/reading-notes/read07)           |
-<<<<<<< HEAD
+
 
 
 ### Table Of Contant of **201** reading notes
@@ -43,7 +44,6 @@
 |      read 13   |            the Link is not available                                 |
 |      read 14   |            the Link is not available                                 |
 |      read 15   |            the Link is not available                                 |
-=======
->>>>>>> 239c9447485040b32900b0d4917a11c0f470a107
+
 
 
