@@ -29,7 +29,7 @@
 
 |       Reads    |   The Link                                                           |
 |----------------|----------------------------------------------------------------------|
-|      read 1    |            the Link is not available                                 |
+|      class 1   |     [class 1](https://saja123321.github.io/reading-notes/class-01)   |
 |      read 2    |            the Link is not available                                 |
 |      read 3    |            the Link is not available                                 |
 |      read 4    |            the Link is not available                                 |
