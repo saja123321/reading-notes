@@ -1,4 +1,4 @@
-# HTML and CSS 
+# Creating Websites
 
 ### How the Web Works
 
@@ -32,16 +32,20 @@ Every element have a starting tag and ending tag like that:
 
 - Comments used  to provide information within an HTML document to be ignored and not shown to the end user.
 - These are useful for notes and documentation to aid anyone who might read or amend the source of the HTML document. 
-- Comments, in HTML, can be single line or multiline. 
+- Comments, in HTML, can be single line or multiline.
 
-      <-- Comment on a single line -->
-     -----------------
-     Multiline comment
-      <!--
-         This comment is over multiple lines.
-             Comments can be used to inform 
-                 and for detailed documentation.
-      -->
+**Singleline comment**
+
+
+`<-- Comment on a single line -->`
+
+**Multiline comment**
+
+`<!--
+This comment is over multiple lines.
+Comments can be used to inform 
+and for detailed documentation.
+-->`
 
 
 ### _What is the different bettwen HTML4 and HTML5_ ?
@@ -56,8 +60,8 @@ here is list of  HTML4 tags and their latest versions in HTML5
 | HTML4                      |     HTML5                        | discription                                                                |
 |----------------------------|----------------------------------|----------------------------------------------------------------------------|
 |  `<div id=”header”>`       |           `<header>`             |  describe the header or top area of a web page.                            |
-| `<div id=”menu”>`          |              `<nav>`             | contain a list of page links for the different pages of the website.       |
-|`<div id=”content”>`        |              `<section>`         |to divide some of the markup into a logical section of the page.            |
-| `<div id=”post”>`          |              `<article>`         |                                                                            |
-|`<div id=”footer”>`         |             `<footer>`           |  the bottom of a web page.                                                 |
+| `<div id=”menu”>`          |            `<nav>`               | contain a list of page links for the different pages of the website.       |
+|  `<div id=”content”>`      |            `<section>`           |to divide some of the markup into a logical section of the page.            |
+| `<div id=”post”>`          |             `<article>`          |                                                                            |
+| `<div id=”footer”>`        |             `<footer>`           |  the bottom of a web page.                                                 |
 
