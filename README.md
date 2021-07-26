@@ -29,21 +29,21 @@
 
 |       Reads    |   The Link                                                           |
 |----------------|----------------------------------------------------------------------|
-|      class 1   |     [class 1](https://saja123321.github.io/reading-notes/class-01)   |
-|      read 2    |            the Link is not available                                 |
-|      read 3    |            the Link is not available                                 |
-|      read 4    |            the Link is not available                                 |
-|      read 5    |            the Link is not available                                 |
-|      read 6    |            the Link is not available                                 |
-|      read 7    |            the Link is not available                                 |
-|      read 8    |            the Link is not available                                 |
-|      read 9    |            the Link is not available                                 |
-|      read 10   |            the Link is not available                                 |
-|      read 11   |            the Link is not available                                 |
-|      read 12   |            the Link is not available                                 |
-|      read 13   |            the Link is not available                                 |
-|      read 14   |            the Link is not available                                 |
-|      read 15   |            the Link is not available                                 |
+|      Read 1    |     [read 1](https://saja123321.github.io/reading-notes/class-01)    |
+|      Read 2    |     [read 2](https://saja123321.github.io/reading-notes/class-02)    |
+|      Read 3    |            the Link is not available                                 |
+|      Read 4    |            the Link is not available                                 |
+|      Read 5    |            the Link is not available                                 |
+|      Read 6    |            the Link is not available                                 |
+|      Read 7    |            the Link is not available                                 |
+|      Read 8    |            the Link is not available                                 |
+|      Read 9    |            the Link is not available                                 |
+|      Read 10   |            the Link is not available                                 |
+|      Read 11   |            the Link is not available                                  |
+|      Read 12   |            the Link is not available                                 |
+|      Read 13   |            the Link is not available                                 |
+|      Read 14   |            the Link is not available                                 |
+|      Read 15   |            the Link is not available                                 |
 
 
 

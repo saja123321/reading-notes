@@ -1,4 +1,4 @@
-# Creating Websites
+# Introduction to HTML And Javascript
 
 ### How the Web Works
 
@@ -9,14 +9,10 @@ The website is hosted on a web server, this web server is located anywhere in th
 
 Every element have a starting tag and ending tag like that:
 
-*< tag > content  </ tag >*
+`<tag> content  </tag>`
 #### Example 
 
-~~~ 
-<html> 
-
-</html>
-~~~
+`<html> </html>`
 
 ### _HTML ELEMENT WITH TAG ATTRIBUTES_
 
@@ -25,7 +21,7 @@ Every element have a starting tag and ending tag like that:
 
 ![attributes](https://www.computerhope.com/jargon/h/html-tag.gif)
 
-    An opening tag can have any number of attributes associated with it.
+> An opening tag can have any number of attributes associated with it.
 
 
 ### _COMMENTS IN HTML_
@@ -64,4 +60,47 @@ here is list of  HTML4 tags and their latest versions in HTML5
 |  `<div id=”content”>`      |            `<section>`           |to divide some of the markup into a logical section of the page.            |
 | `<div id=”post”>`          |             `<article>`          |                                                                            |
 | `<div id=”footer”>`        |             `<footer>`           |  the bottom of a web page.                                                 |
+
+
+# Introduction to Javascript
+
+#### first, **WHY** we need tO learn javascript, not another language? 
+
+1. Other Languages must be compiled to run, but JavaScript doesn’t have to compile its run as-is.
+1. JavaScript is one of three fundamental languages of the web.
+(we know the two other is Html and CSS)
+This three language is different than each other of there purpose and function, but they are integrated together.
+
+ 
+in programming, every physical thing is presented as an object. did you remember the variable, we say that each variable has one value.
+objects are like variables but the objects can obtain many values.
+
+### Accessing Object Properties
+
+You can access object properties in two ways:
+
+1. `objectName.propertyName`
+
+1. `objectName["propertyName"]`
+
+### HOW TO PUT A JAVASCRIPT INTO AN HTML PAGE?
+
+
+JavaScript statements are placed within the `<script>... </script>` HTML tags in a web page. The <script> tag alerts the browser program to start interpreting all the text between these tags as a script. 
+
+A simple syntax of your JavaScript will appear as follows.
+The script tag takes two important attributes 
+  * Language : its value will be `"javascript"`. 
+  * Type : the value should be set to `"text/javascript"`.
+
+Scripts can also be placed in external files:
+
+the file extension is  .js. The why to link he external file with the html file :
+
+`<script src="myScript.js"> </script>`
+
+
+
+
+
 
