@@ -1,4 +1,4 @@
-# HTML Lists, CSS Boxes, JS Control Flow
+#HTML Lists, CSS Boxes, JS Control Flow
 
 ## Html Lists
 
@@ -69,4 +69,3 @@ the result of the operation is false only when expression are true, and the resu
 ## Javascript Loops 
 ---------------
 ![loops](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/Difference-between-for-and-while-loop.jpg)
-
