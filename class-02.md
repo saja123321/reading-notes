@@ -6,10 +6,12 @@ there are two types of texts on websites, the Headings in many sizes and paragra
 
 in HTML the headings have been styled in 6 sizes, the `<h1> </h1>` represent the largest size, which is always represented as the heading of the web page. the  `<h6> </h6>`  represent the smallest size of heading. and between them the `<h2>` , `<h3>` , `<h4>` and `<h5>` .
 
-### Example 
+### Example
+
 theis is an Example of heading Levels
 
 ```
+
  <!--Doctype html-->
     <html>
     <body>
@@ -22,8 +24,11 @@ theis is an Example of heading Levels
     </body>
     </html>
 
+
+
 ```
-the result will be 
+
+the result will be
 
 ![Headings](https://iq.opengenus.org/content/images/2019/08/img8.png)
 
@@ -40,10 +45,7 @@ look at this table :
 | `<i> Italic </i>`          | Italic the text                           |  *Italic*                     |
 | `<sup>1</sup>`             | superscript the text                      |                               |
 | `<sub>1</sub>`             | subscript the text                        |                               |
-|`<p>hello1<br />hello2</p>` | add new line  between  hello1 and hello2  |                               | 
-
-
-
+|`<p>hello1<br />hello2</p>` | add new line  between  hello1 and hello2  |                               |
 
 ## CSS
 
@@ -58,30 +60,31 @@ CSS treats every HTML element as a one block.
     1. Property − A property is a type of attribute of HTML tag. 
     1. Value − Values are assigned to properties.
 
-### Example 
+### Example
+
 `table{ border :1px}`
-- **Selector** − table 
+
+- **Selector** − table
 - **Property** − border
 - **Value** − 1px
 
 you can groupe more than one selector in same style.
+
 #### Example
 
 ```h1, h2, h3 {color: yellow;}```
 
 ### TYPE OF SELECTORS
+
 - element Selector
    Selects HTML elements based on the element name.
-
 
   `p {
      text-align: center; 
      color: red;
    }`
 
-   
-    In this example the style applied to all paragraphs in the HTML files 
-   
+    In this example the style applied to all paragraphs in the HTML files
 - ID Selector
  The id selector uses the id attribute of an HTML element
  The id selector is used to select one unique element!
@@ -91,10 +94,10 @@ you can groupe more than one selector in same style.
   text-align: center;
   color: red;
   }
- `
+`
  In this the style applied just to  single paragraph  how  have the attribute `id=p1`
 
--  class Selector
+- class Selector
   The class selector selects HTML elements with a specific class attribute.
   To select elements with a specific class, write a period (.) character, followed by the class name.
 
@@ -115,34 +118,18 @@ you can groupe more than one selector in same style.
 In this example the style applied to all elements in the HTML files.
 
 ## Javascript
+
  in the previous class, we explain the javascript variables; how to declare the variable , variable datatypes, and assign them a value.
 
-
 ### so what is the rule of naming variables
+
 1. The name must begin with a letter, dollar sign ($),or an underscore (_).not a number.
-1. The name can contain 
+1. The name can contain
    - letters
    - numbers
    - dollar sign ($)
    - an underscore (_).
-   -   > Note that you must not use a dash(-) or a period (.) in a variable name. 
+   - > Note that you must not use a dash(-) or a period (.) in a variable name. 
 1. not a  keywords or reserved words.
 
-1. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word.
