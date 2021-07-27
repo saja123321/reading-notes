@@ -32,7 +32,7 @@
 |      Read 1    |     [read 1](https://saja123321.github.io/reading-notes/class-01)    |
 |      Read 2    |     [read 2](https://saja123321.github.io/reading-notes/class-02)    |
 |      Read 3    |     [read 3](https://saja123321.github.io/reading-notes/class-03)    |
-|      Read 4    |            the Link is not available                                 |
+|      Read 4    |     [read 3](https://saja123321.github.io/reading-notes/class04)     |
 |      Read 5    |            the Link is not available                                 |
 |      Read 6    |            the Link is not available                                 |
 |      Read 7    |            the Link is not available                                 |
