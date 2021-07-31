@@ -37,7 +37,7 @@ returns the first Element within the document that matches the specified selecto
 
 ------------------
 
-### getEl ementsByClassName('class')
+### getEl ementsByClassName('className')
 
 e returns an array-like object of all child elements which have all of the given class name(s).
 
