@@ -37,7 +37,7 @@
 |      Read 6    |     [Read 6](https://saja123321.github.io/reading-notes/class-06)    |
 |      Read 7    |     [Read 7](https://saja123321.github.io/reading-notes/class-07)    |
 |      Read 8    |     [Read 8](https://saja123321.github.io/reading-notes/class-08)    |
-|      Read 9    |            the Link is not available                                 |
+|      Read 9    |     [Read 9](https://saja123321.github.io/reading-notes/class-09)    |
 |      Read 10   |            the Link is not available                                 |
 |      Read 11   |            the Link is not available                                 |
 |      Read 12   |            the Link is not available                                 |
