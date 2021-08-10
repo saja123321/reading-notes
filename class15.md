@@ -57,5 +57,4 @@
 }
 .box-3 {
   transform: translate(-10px, 25%);
-}
 ```
