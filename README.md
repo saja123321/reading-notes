@@ -53,7 +53,7 @@ this website abote a reading notes of my study trip
 |----------------|----------------------------------------------------------------------------|
 |      Read 1    |     [Read 1](https://saja123321.github.io/reading-notes/class301-01)       |
 |      Read 2    |     [Read 2](https://saja123321.github.io/reading-notes/class301-02)       |
-|      Read 3    |     [Read 3](https://saja123321.github.io/reading-notes/class301-03)       |
+|      Read 3    |     [Read 3](https://saja123321.github.io/reading-notes/class30103)        |
 |      Read 4    |     [Read 4](https://saja123321.github.io/reading-notes/class301-04)       |
 |      Read 5    |     [Read 5](https://saja123321.github.io/reading-notes/class301-05)       |
 |      Read 6    |     [Read 6](https://saja123321.github.io/reading-notes/class301-06)       |
